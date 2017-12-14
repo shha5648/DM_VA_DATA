@@ -1,0 +1,160 @@
+State,Date,Payments
+Alaska,FY_14,244437.0
+Alaska,FY_15,247524.0
+Alaska,FY_16,280603.0
+Alabama,FY_14,1875091.0
+Alabama,FY_15,1856515.0
+Alabama,FY_16,2062094.0
+Arkansas,FY_14,1055813.0
+Arkansas,FY_15,1037492.0
+Arkansas,FY_16,1129084.0
+Arizona,FY_14,1666170.0
+Arizona,FY_15,1652047.0
+Arizona,FY_16,1833525.0
+California,FY_14,6376052.0
+California,FY_15,6552100.0
+California,FY_16,7252271.0
+Colorado,FY_14,1447416.0
+Colorado,FY_15,1490936.0
+Colorado,FY_16,1683271.0
+Connecticut,FY_14,432271.0
+Connecticut,FY_15,435226.0
+Connecticut,FY_16,469393.0
+DC,FY_14,90387.0
+DC,FY_15,88498.0
+DC,FY_16,96502.0
+Delaware,FY_14,199732.0
+Delaware,FY_15,204297.0
+Delaware,FY_16,231634.0
+Florida,FY_14,5618726.0
+Florida,FY_15,5626995.0
+Florida,FY_16,6288593.0
+Georgia,FY_14,3004840.0
+Georgia,FY_15,3112295.0
+Georgia,FY_16,3528819.0
+Guam,FY_14,51981.0
+Guam,FY_15,53087.0
+Guam,FY_16,59862.0
+Hawaii,FY_14,388532.0
+Hawaii,FY_15,394010.0
+Hawaii,FY_16,438961.0
+Iowa,FY_14,592671.0
+Iowa,FY_15,581556.0
+Iowa,FY_16,628838.0
+Idaho,FY_14,401211.0
+Idaho,FY_15,405841.0
+Idaho,FY_16,457871.0
+Illinois,FY_14,1680632.0
+Illinois,FY_15,1687260.0
+Illinois,FY_16,1847960.0
+Indiana,FY_14,1239688.0
+Indiana,FY_15,1233530.0
+Indiana,FY_16,1347665.0
+Kansas,FY_14,632709.0
+Kansas,FY_15,631885.0
+Kansas,FY_16,698221.0
+Kentucky,FY_14,1255748.0
+Kentucky,FY_15,1231438.0
+Kentucky,FY_16,1339620.0
+Louisiana,FY_14,1211754.0
+Louisiana,FY_15,1211260.0
+Louisiana,FY_16,1325975.0
+Maine,FY_14,1159009.0
+Maine,FY_15,1141560.0
+Maine,FY_16,1236294.0
+Massachusetts,FY_14,1228854.0
+Massachusetts,FY_15,1279895.0
+Massachusetts,FY_16,1412897.0
+Maryland,FY_14,541754.0
+Maryland,FY_15,519583.0
+Maryland,FY_16,569940.0
+Maine,FY_14,1983451.0
+Maine,FY_15,1959410.0
+Maine,FY_16,2148061.0
+Michigan,FY_14,1146384.0
+Michigan,FY_15,1123595.0
+Michigan,FY_16,1225675.0
+Missouri,FY_14,1651755.0
+Missouri,FY_15,1627460.0
+Missouri,FY_16,1773038.0
+Mississippi,FY_14,776679.0
+Mississippi,FY_15,791716.0
+Mississippi,FY_16,882755.0
+Montana,FY_14,335093.0
+Montana,FY_15,324329.0
+Montana,FY_16,353054.0
+North Carolina,FY_14,3328183.0
+North Carolina,FY_15,3436154.0
+North Carolina,FY_16,3875723.0
+North Dakota,FY_14,171165.0
+North Dakota,FY_15,167895.0
+North Dakota,FY_16,182453.0
+Nebraska,FY_14,557741.0
+Nebraska,FY_15,546459.0
+Nebraska,FY_16,594498.0
+New Hampshire,FY_14,311022.0
+New Hampshire,FY_15,313725.0
+New Hampshire,FY_16,344688.0
+New Jersey,FY_14,1047058.0
+New Jersey,FY_15,1036506.0
+New Jersey,FY_16,1126820.0
+New Mexico,FY_14,794229.0
+New Mexico,FY_15,782081.0
+New Mexico,FY_16,853572.0
+Nevada,FY_14,776443.0
+Nevada,FY_15,818844.0
+Nevada,FY_16,944687.0
+New York,FY_14,2396837.0
+New York,FY_15,2377227.0
+New York,FY_16,2567691.0
+Ohio,FY_14,2235023.0
+Ohio,FY_15,2192679.0
+Ohio,FY_16,2412518.0
+Oklahoma,FY_14,1823983.0
+Oklahoma,FY_15,1812031.0
+Oklahoma,FY_16,2011045.0
+Oregon,FY_14,1282449.0
+Oregon,FY_15,1281055.0
+Oregon,FY_16,1392002.0
+Pennsylvania,FY_14,2432807.0
+Pennsylvania,FY_15,2402975.0
+Pennsylvania,FY_16,2612747.0
+Puerto Rico,FY_14,816544.0
+Puerto Rico,FY_15,784777.0
+Puerto Rico,FY_16,852320.0
+Rhode Island,FY_14,232604.0
+Rhode Island,FY_15,223371.0
+Rhode Island,FY_16,242773.0
+South Carolina,FY_14,1868959.0
+South Carolina,FY_15,1909398.0
+South Carolina,FY_16,2122970.0
+South Dakota,FY_14,238175.0
+South Dakota,FY_15,236224.0
+South Dakota,FY_16,258293.0
+Tennessee,FY_14,1995305.0
+Tennessee,FY_15,2046342.0
+Tennessee,FY_16,2292295.0
+Texas,FY_14,7282260.0
+Texas,FY_15,7447454.0
+Texas,FY_16,8433064.0
+Utah,FY_14,433073.0
+Utah,FY_15,440335.0
+Utah,FY_16,499178.0
+Virginia,FY_14,2729280.0
+Virginia,FY_15,2775627.0
+Virginia,FY_16,3154782.0
+Vermont,FY_14,135803.0
+Vermont,FY_15,134177.0
+Vermont,FY_16,145689.0
+Washington,FY_14,2070141.0
+Washington,FY_15,2140766.0
+Washington,FY_16,2351434.0
+Wisconsin,FY_14,1142091.0
+Wisconsin,FY_15,1118396.0
+Wisconsin,FY_16,1217552.0
+West Virginia,FY_14,722958.0
+West Virginia,FY_15,705355.0
+West Virginia,FY_16,763343.0
+Wyoming,FY_14,152461.0
+Wyoming,FY_15,156163.0
+Wyoming,FY_16,173669.0

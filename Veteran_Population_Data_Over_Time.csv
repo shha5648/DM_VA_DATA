@@ -1,0 +1,160 @@
+State,Date,Population
+Alaska,FY_14,73397.0
+Alaska,FY_15,73276.0
+Alaska,FY_16,68436.0
+Alabama,FY_14,413618.0
+Alabama,FY_15,411717.0
+Alabama,FY_16,373761.0
+Arkansas,FY_14,249274.0
+Arkansas,FY_15,247888.0
+Arkansas,FY_16,225118.0
+Arizona,FY_14,532206.0
+Arizona,FY_15,528486.0
+Arizona,FY_16,515050.0
+California,FY_14,1851470.0
+California,FY_15,1802446.0
+California,FY_16,1735213.0
+Colorado,FY_14,413271.0
+Colorado,FY_15,409469.0
+Colorado,FY_16,407616.0
+Connecticut,FY_14,213420.0
+Connecticut,FY_15,206549.0
+Connecticut,FY_16,191607.0
+DC,FY_14,29825.0
+DC,FY_15,29470.0
+DC,FY_16,28413.0
+Delaware,FY_14,78099.0
+Delaware,FY_15,77354.0
+Delaware,FY_16,72831.0
+Florida,FY_14,1583697.0
+Florida,FY_15,1558441.0
+Florida,FY_16,1559778.0
+Georgia,FY_14,752882.0
+Georgia,FY_15,752499.0
+Georgia,FY_16,699322.0
+Guam,FY_14,9453.0
+Guam,FY_15,9493.0
+Guam,FY_16,9933.0
+Hawaii,FY_14,121007.0
+Hawaii,FY_15,120482.0
+Hawaii,FY_16,112944.0
+Iowa,FY_14,231655.0
+Iowa,FY_15,227991.0
+Iowa,FY_16,211549.0
+Idaho,FY_14,132395.0
+Idaho,FY_15,132334.0
+Idaho,FY_16,123140.0
+Illinois,FY_14,721575.0
+Illinois,FY_15,705582.0
+Illinois,FY_16,646939.0
+Indiana,FY_14,476283.0
+Indiana,FY_15,469210.0
+Indiana,FY_16,418579.0
+Kansas,FY_14,221206.0
+Kansas,FY_15,218416.0
+Kansas,FY_16,196892.0
+Kentucky,FY_14,330599.0
+Kentucky,FY_15,328408.0
+Kentucky,FY_16,298860.0
+Louisiana,FY_14,330145.0
+Louisiana,FY_15,326229.0
+Louisiana,FY_16,287373.0
+Maine,FY_14,379772.0
+Maine,FY_15,367531.0
+Maine,FY_16,336257.0
+Massachusetts,FY_14,437762.0
+Massachusetts,FY_15,430446.0
+Massachusetts,FY_16,399036.0
+Maryland,FY_14,127234.0
+Maryland,FY_15,125078.0
+Maryland,FY_16,116782.0
+Maine,FY_14,658469.0
+Maine,FY_15,640865.0
+Maine,FY_16,608271.0
+Michigan,FY_14,369149.0
+Michigan,FY_15,361129.0
+Michigan,FY_16,337362.0
+Missouri,FY_14,494346.0
+Missouri,FY_15,488220.0
+Missouri,FY_16,450684.0
+Mississippi,FY_14,220389.0
+Mississippi,FY_15,218980.0
+Mississippi,FY_16,193589.0
+Montana,FY_14,99646.0
+Montana,FY_15,99034.0
+Montana,FY_16,92377.0
+North Carolina,FY_14,775020.0
+North Carolina,FY_15,773884.0
+North Carolina,FY_16,731378.0
+North Dakota,FY_14,57395.0
+North Dakota,FY_15,57086.0
+North Dakota,FY_16,52043.0
+Nebraska,FY_14,143375.0
+Nebraska,FY_15,141213.0
+Nebraska,FY_16,133003.0
+New Hampshire,FY_14,113660.0
+New Hampshire,FY_15,111389.0
+New Hampshire,FY_16,108119.0
+New Jersey,FY_14,428396.0
+New Jersey,FY_15,413188.0
+New Jersey,FY_16,371518.0
+New Mexico,FY_14,171528.0
+New Mexico,FY_15,170132.0
+New Mexico,FY_16,161311.0
+Nevada,FY_14,228027.0
+Nevada,FY_15,225073.0
+Nevada,FY_16,221996.0
+New York,FY_14,892221.0
+New York,FY_15,862805.0
+New York,FY_16,806827.0
+Ohio,FY_14,866481.0
+Ohio,FY_15,848124.0
+Ohio,FY_16,796267.0
+Oklahoma,FY_14,337571.0
+Oklahoma,FY_15,335905.0
+Oklahoma,FY_16,306074.0
+Oregon,FY_14,331632.0
+Oregon,FY_15,326338.0
+Oregon,FY_16,310333.0
+Pennsylvania,FY_14,939069.0
+Pennsylvania,FY_15,916638.0
+Pennsylvania,FY_16,845507.0
+Puerto Rico,FY_14,93240.0
+Puerto Rico,FY_15,90395.0
+Puerto Rico,FY_16,82574.0
+Rhode Island,FY_14,71966.0
+Rhode Island,FY_15,69862.0
+Rhode Island,FY_16,65470.0
+South Carolina,FY_14,417554.0
+South Carolina,FY_15,417515.0
+South Carolina,FY_16,403948.0
+South Dakota,FY_14,72030.0
+South Dakota,FY_15,71736.0
+South Dakota,FY_16,65893.0
+Tennessee,FY_14,506340.0
+Tennessee,FY_15,503675.0
+Tennessee,FY_16,474686.0
+Texas,FY_14,1680418.0
+Texas,FY_15,1675262.0
+Texas,FY_16,1594564.0
+Utah,FY_14,151719.0
+Utah,FY_15,150904.0
+Utah,FY_16,135988.0
+Virginia,FY_14,781388.0
+Virginia,FY_15,783108.0
+Virginia,FY_16,729398.0
+Vermont,FY_14,48602.0
+Vermont,FY_15,47664.0
+Vermont,FY_16,44271.0
+Washington,FY_14,603623.0
+Washington,FY_15,598460.0
+Washington,FY_16,567799.0
+Wisconsin,FY_14,413723.0
+Wisconsin,FY_15,405729.0
+Wisconsin,FY_16,373606.0
+West Virginia,FY_14,167355.0
+West Virginia,FY_15,165709.0
+West Virginia,FY_16,145309.0
+Wyoming,FY_14,49708.0
+Wyoming,FY_15,49838.0
+Wyoming,FY_16,47472.0
